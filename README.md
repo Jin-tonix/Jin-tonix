@@ -16,3 +16,7 @@
 > > * 취  미 : 자전거 타기
 > > <img width="300px" height="200px" src="https://github.com/Jin-tonix/Jin-tonix/assets/166350807/46ac3fb3-bee9-4054-a7cc-4a45e35fca35"/>
 __________________
+
+> ## 경력
+> > * JLS 영어강사
+> > * Montekids 영어유치원교사
