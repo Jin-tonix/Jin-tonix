@@ -7,4 +7,4 @@
 > > 개발자로서 늘 배우는 자세로 발전하며 새로운 가치를 창출하고 싶습니다.
 > > ------------------
 > > * E-mail : jinheemok815@gmail.com
-> > ### * Portfolio : http://jin-tonix.github.io/
+> > ###  * Portfolio : http://jin-tonix.github.io/
