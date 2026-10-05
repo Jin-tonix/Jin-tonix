@@ -9,7 +9,7 @@ I joined in Dec 2025 and have designed, built, and run the company's internal AI
 - **Vendor support agent on KakaoTalk.** Personal chats have no official API, so collectors on staff PCs feed a grounded answer loop. Improved auto-replies are in staged rollout in a test room.
 - **SS work tool (brand-tool).** An internal web app for staff. It started as a replacement for a spreadsheet price sheet. It now covers proposals, catalog parsing, sales-partner matching, seller discovery, and personalized KakaoTalk campaigns.
 - **Spark · Work OS.** A company assistant over four databases with read-only roles and cited answers. Its Tool Registry defaults to dry run and checks role, kill switch, approval row, and idempotency key before any action.
-- **Email agent and knowledge hub.** Reply drafts for the brand and order shared mailboxes are checked by rule validators and critics. CEO-inbox auto-drafts are paused since 2026-09-02. Its LightRAG workspaces are shared by the other systems.
+- **Email agent and knowledge hub.** Reply drafts for the brand and order shared mailboxes are checked by rule validators and critics. Its LightRAG workspaces are shared by the other systems.
 - **Staff PC tools.** One-line installers, sha256-versioned auto-update, and per-device keys, so no database key lives on a PC. 11 PCs registered (as of 2026-09-16).
 
 Case studies: **[jin-tonix.github.io](https://jin-tonix.github.io)** · English: [jin-tonix.github.io/en](https://jin-tonix.github.io/en)
