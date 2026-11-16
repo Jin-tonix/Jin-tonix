@@ -35,6 +35,7 @@ Case studies: **[jin-tonix.github.io](https://jin-tonix.github.io)** · [English
 
 Documents:
 [Résumé (EN)](https://jin-tonix.github.io/resume/Resume_Jinhee_Mok.pdf) ·
+[이력서 (KO)](https://jin-tonix.github.io/documents/%EB%AA%A9%EC%A7%84%ED%9D%AC_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf) ·
 [Career description (EN)](https://jin-tonix.github.io/files/career-description-en.pdf) ·
 [경력기술서 (KO)](https://jin-tonix.github.io/files/career-description-ko.pdf) ·
 [Portfolio (EN)](https://jin-tonix.github.io/files/portfolio-en.pdf) ·
