@@ -39,4 +39,6 @@ Documents:
 [Career description (EN)](https://jin-tonix.github.io/files/career-description-en.pdf) ·
 [경력기술서 (KO)](https://jin-tonix.github.io/files/career-description-ko.pdf) ·
 [Portfolio (EN)](https://jin-tonix.github.io/files/portfolio-en.pdf) ·
-[포트폴리오 (KO)](https://jin-tonix.github.io/files/portfolio-ko.pdf)
+[포트폴리오 (KO)](https://jin-tonix.github.io/files/portfolio-ko.pdf) ·
+[All-in-one (EN)](https://jin-tonix.github.io/documents/Jinhee_Mok_Resume_Career_Portfolio.pdf) ·
+[합본 (KO)](https://jin-tonix.github.io/documents/%EB%AA%A9%EC%A7%84%ED%9D%AC_%EC%9D%B4%EB%A0%A5%EC%84%9C_%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
